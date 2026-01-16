@@ -1,0 +1,6 @@
+path, fid
+/mnt/pml/diffusion_on_latent_space/latent_diffusion_epoch=20(vae_model_beta_lr=0.001--beta=0.02--epochs=20).model, 0.13900722563266754
+/mnt/pml/diffusion_on_latent_space/latent_diffusion_epoch=20(vae_model_beta_lr=0.001--beta=0.5--epochs=20).model, 0.058483533561229706
+/mnt/pml/diffusion_on_latent_space/latent_diffusion_epoch=20(vae_model_beta_lr=0.001--beta=1--epochs=20).model, 0.05811246111989021
+/mnt/pml/diffusion_on_latent_space/latent_diffusion_epoch=20(vae_model_beta_lr=0.001--beta=2--epochs=20).model, 0.08226577937602997
+/mnt/pml/diffusion_on_latent_space/latent_diffusion_epoch=20(vae_model_beta_lr=0.001--beta=5--epochs=20).model, 0.19213375449180603

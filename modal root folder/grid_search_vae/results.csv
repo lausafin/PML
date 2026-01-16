@@ -1,0 +1,5 @@
+path, fid/mnt/pml/grid_search_vae/vae_model_beta_lr=0.001--beta=0.02--epochs=20.model, 0.29568928480148315
+/mnt/pml/grid_search_vae/vae_model_beta_lr=0.001--beta=0.5--epochs=20.model, 0.09541057795286179
+/mnt/pml/grid_search_vae/vae_model_beta_lr=0.001--beta=1--epochs=20.model, 0.08989385515451431
+/mnt/pml/grid_search_vae/vae_model_beta_lr=0.001--beta=2--epochs=20.model, 0.10403565317392349
+/mnt/pml/grid_search_vae/vae_model_beta_lr=0.001--beta=5--epochs=20.model, 0.17463374137878418
